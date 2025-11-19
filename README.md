@@ -2,6 +2,9 @@
 <h3 align="center">Junior Web Developer | MERN Stack Learner</h3>
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Asha-08/Asha-08/main/Yellow%20and%20Blue%20Bold%20Geometric%20Software%20Developer%20LinkedIn%20Banner.png" alt="My GitHub Banner" />
+</p>
 
 <!-- Professional Connect Section -->
 <h2 align="center">📬 Feel Free to Reach Me</h2>
