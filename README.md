@@ -3,9 +3,21 @@
 
 ---
 
-## 🔗 Connect With Me
-<p align="center">
-  <!-- Add links later (LinkedIn / Email etc.) -->
+<!-- Professional Connect Section -->
+<h2 align="center">📬 Feel Free to Reach Me</h2>
+
+<p align="center" style="margin-top: 20px;">
+  <a href="mailto:ashaamina91@gmail.com" style="text-decoration: none; font-size: 18px;">
+    <img src="https://img.icons8.com/?size=100&id=12580&format=png&color=000000" width="28"/>
+    <span style="margin-left: 6px;">ashaamina91@gmail.com</span>
+  </a>
+</p>
+
+<p align="center" style="margin-top: 12px;">
+  <a href="https://www.facebook.com/rongdhonu.satrong.169/" target="_blank" style="text-decoration: none; font-size: 18px;">
+    <img src="https://img.icons8.com/?size=100&id=118497&format=png&color=000000" width="28"/>
+    <span style="margin-left: 6px;">Facebook Profile</span>
+  </a>
 </p>
 
 ---
