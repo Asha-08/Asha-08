@@ -1,5 +1,21 @@
 <h1 align="center">Hi 👋, I'm Amina Akther Asha</h1>
 <h3 align="center">Junior Web Developer | MERN Stack Learner</h3>
+<!-- About Me Section -->
+<h2 align="center">👋 About Me</h2>
+
+<p align="center">
+  I am a frontend-focused junior web developer who enjoys building clean, user-friendly, and meaningful web applications.<br/>
+  I love learning modern web technologies and improving my skills through hands-on projects.<br/>
+  My goal is to create practical, scalable, and impactful digital solutions.
+</p>
+
+<!-- Current Activities Section -->
+<h2 align="center">🚀 Current Activities</h2>
+
+<ul align="center" style="list-style-position: inside;">
+  <li>🌱 Exploring <strong>Next.js</strong></li>
+  <li>🏥 Working on a <strong>healthcare home service–based project</strong></li>
+</ul>
 
 ---
 <p align="center">
