@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Asha-08/Asha-08/main/assets/banner.png" width="100%" alt="Amina Akther Asha Banner"/>
-
+<img src="https://raw.githubusercontent.com/Asha-08/Asha-08/main/assets/banner.png?v=2" width="100%" alt="Amina Akther Asha Banner"/>
 </div>
 
 <br/>
