@@ -51,7 +51,7 @@ that actually make a difference.
 📖  Learning     →  Next.js & Advanced React
 🏥  Building     →  RiskRadar Fraud Detection System
 🎯  Goal         →  First professional dev role
-💡  Exploring    →  Redis, Firebase & APIs
+💡  Exploring    →  Redis
 ```
 
 <br/>
